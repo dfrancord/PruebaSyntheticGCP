@@ -1,0 +1,15 @@
+{
+    "name": "mocha-url-ok",
+    "version": "0.1.0",
+    "description": "",
+    "main": "index.js",
+    "dependencies": {
+        "@google-cloud/functions-framework": "^3.1.2",
+        "@google-cloud/synthetics-sdk-mocha": "^0.1.1",
+        "axios": "^1.7.7",
+        "chai": "^4.3.0",
+        "node-fetch": "^2.6.0"
+    },
+    "author": "Google Inc.",
+    "license": "Apache-2.0"
+}
